@@ -13,7 +13,7 @@ do not round (result is less than 40)
 do not round (60 - 57 is 3 or higher)
 Given the initial value of  for each of Sam's  students, write code to automate the rounding process.
 
-###Function Description
+### Function Description
 
 Complete the function gradingStudents in the editor below.
 
@@ -43,9 +43,12 @@ Sample Output 0
 67
 40
 33
-Explanation 0
+```
 
+### Explanation 0
+![image](https://user-images.githubusercontent.com/14338946/112230812-46cce600-8c14-11eb-9de5-d3eadc7011f5.png)
 
+```
 Student  received a , and the next multiple of  from  is . Since , the student's grade is rounded to .
 Student  received a , and the next multiple of  from  is . Since , the grade will not be modified and the student's final grade is .
 Student  received a , and the next multiple of  from  is . Since , the student's grade will be rounded to .
